@@ -121,8 +121,7 @@ Renamed table and ran 13 business analysis queries:
 - Columns: 17
 - Source: Synthetic HR employee data
 
----<img width="838" height="531" alt="Screenshot 2026-03-23 172806" src="https://github.com/user-attachments/assets/58860262-a635-4c1f-b576-6f8f417b9d78" />
-
+- <img width="1366" height="768" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/88366435-7683-4739-9bd3-92a141242214" />
 
 ## Files in Repository
 HR-Employee-Overview/
