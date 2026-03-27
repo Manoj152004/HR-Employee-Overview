@@ -1,6 +1,5 @@
 # HR Employee Overview & Attrition Analysis
-
-https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=ef51de3c-3b7d-4e60-a91b-e607598f3278&pbi_source=mobile_android&groupObjectId=5fce47b5-fbea-4a9e-81c4-e71319fd5d85&reportObjectId=1d869931-ab72-4bc8-9b24-fbefbc5aefe7&reportPage=1b70971f70ef4b9249fa&bookmarkGuid=737ec0df-962d-47cc-81c7-010cff197677&fullScreen=0
+https://app.powerbi.com/links/L0ZQQ283zR?ctid=ef51de3c-3b7d-4e60-a91b-e607598f3278&pbi_source=linkShare
 
 ## Project Overview
 End-to-end HR employee data analysis project covering data cleaning 
